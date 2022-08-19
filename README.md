@@ -1,1 +1,7 @@
-# Advance-Computer-Vision-Modell
+# Advance-Computer-Vision-Model
+
+## Pytorch Version
+https://developer.nvidia.cn/cuda-11.1.1-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+
+## CUDA Version
+https://pytorch.org/get-started/previous-versions/
